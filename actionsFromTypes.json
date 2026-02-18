@@ -1,0 +1,9 @@
+{
+"Int": ["Decrease", "Increase", "Set"],
+"Long": ["Decrease", "Increase", "Set"], 
+"Float": ["Decrease", "Increase", "Set"],
+"Double": ["Decrease", "Increase", "Set"],
+"String": ["Set"],
+"Boolean": ["Set"],
+"List": ["Add", "Remove", "Set"]
+}
