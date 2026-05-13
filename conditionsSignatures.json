@@ -1,0 +1,10 @@
+{
+    "equals": {"attr": ["attrInt", "attrFloat", "attrString", "attrBoolean"], "value": ["Int", "Float", "String", "Boolean"]},
+    "greaterThan": {"attr": ["attrInt", "attrFloat"], "value": ["Int", "Float"]},
+    "lessThan": {"attr": ["attrInt", "attrFloat"], "value": ["Int", "Float"]},
+    "contains": {"attr": ["attrString", "attrList"], "value": ["String", "List"]},
+    "notEquals": {"attr": ["attrInt", "attrFloat", "attrString", "attrBoolean"], "value": ["Int", "Float", "String", "Boolean"]},
+    "notContains": {"attr": ["attrString", "attrList"], "value": ["String", "List"]},
+    "isEmpty": {"attr": ["attrString", "attrList"]},
+    "isNotEmpty": {"attr": ["attrString", "attrList"]}
+}
