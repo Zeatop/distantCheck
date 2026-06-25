@@ -4,7 +4,7 @@
     "Set": {"attr": ["attrInt", "attrFloat", "attrString", "attrBoolean", "attrList"], "value": ["Int", "Float", "String", "Boolean", "List"]},
     "Add": {"attr": ["attrList", "attrAny"], "value": ["List", "Any"]},
     "Remove": {"attr": ["attrList"], "value": ["List"]},
-    "changeLocation": {"value": ["String"]},
+    "ChangeLocation": {"value": ["String"]},
     "ShowDialog": {"speaker": ["String"], "value": ["String"]},
     "PlaySound": {"value": ["String"], "loop": ["Boolean"]},
     "StopSound": {"value": ["String"]}
